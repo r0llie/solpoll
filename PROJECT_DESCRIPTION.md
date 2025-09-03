@@ -1,6 +1,6 @@
 # Project Description
 
-**Deployed Frontend URL:** [Will be deployed to Vercel]
+**Deployed Frontend URL:** https://voting-dapp-h9n5ksd4a-rollies-projects.vercel.app
 
 **Solana Program ID:** `Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS`
 
