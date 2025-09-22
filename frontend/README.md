@@ -64,7 +64,7 @@ npm run build
 
 The frontend is configured to connect to:
 - **Network**: Solana Devnet
-- **Program ID**: `Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS`
+- **Program ID**: `BE82CfBvpmk4CvN7QRWiVEDrZ5HKF2vw7duGvTQgLn5d`
 
 ## Deployment
 

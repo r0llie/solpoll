@@ -2,7 +2,7 @@
 
 **Deployed Frontend URL:** https://voting-dapp-delta-ten.vercel.app/
 
-**Solana Program ID:** `Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS`
+**Solana Program ID:** `BE82CfBvpmk4CvN7QRWiVEDrZ5HKF2vw7duGvTQgLn5d`
 
 ## Project Overview
 

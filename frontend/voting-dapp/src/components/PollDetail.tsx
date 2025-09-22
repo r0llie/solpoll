@@ -6,7 +6,7 @@ import { Program, AnchorProvider, web3 } from '@coral-xyz/anchor';
 import idl from '../idl/voting_dapp.json';
 import './PollDetail.css';
 
-const PROGRAM_ID = new PublicKey('Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS');
+const PROGRAM_ID = new PublicKey('BE82CfBvpmk4CvN7QRWiVEDrZ5HKF2vw7duGvTQgLn5d');
 
 interface Poll {
   id: number;
