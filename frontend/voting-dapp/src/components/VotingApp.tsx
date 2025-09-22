@@ -17,7 +17,7 @@ interface Poll {
   isActive: boolean;
 }
 
-const PROGRAM_ID = new PublicKey('AqVFH6Vq5whfoYGWKtViGpd2oHCNCHi4nc7F8RDNFHxx');
+const PROGRAM_ID = new PublicKey('8LT6EPCP5UtZaMQsT1LrM1fiJZgXZebcxRkjf3ZQmGch');
 
 const VotingApp: React.FC = () => {
   const { connection } = useConnection();
